@@ -1,0 +1,30 @@
+h1{
+  text-align: center;
+  color: #2e939d;
+  font-family: Verdana,Geneva,sans-serif;
+  border-style: solid;
+  border-color: #000000;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  padding-bottom: 20px;
+}
+h2{
+  padding-top: 20px;
+  font-family: Verdana,Geneva,sans-serif;
+  margin-right: 450px;
+  border-style: solid;
+  border-color: #2e939d;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  padding-bottom: 10px;
+}
+p{
+  font-family: Verdana,Geneva,sans-serif;
+  margin-left: 50px;
+}
+u{
+    color:#2e939d;
+    font-weight: bold;
+}

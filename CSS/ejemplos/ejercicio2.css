@@ -1,0 +1,27 @@
+h1{
+  text-align: center;
+  }
+h2{
+  font-family: Verdana,Geneva,sans-serif;
+  border-bottom: solid 1px;
+  border-color: #d2dff2;
+  }
+u{
+   color:#2e939d;
+   font-weight: bold;
+  }
+p{
+  font-size: 20px;
+}
+#solo{
+   border: solid 1px;
+   padding: 10px;
+  }
+.tenue{
+  background-color: #f6f6f6;
+  padding: 10px;
+  }
+.fuerte{
+  background-color: #d7d7d7;
+  padding: 10px;
+}

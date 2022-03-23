@@ -1,0 +1,15 @@
+h1 {
+border: 5px dashed green;
+}
+p {
+color: white;
+border-style: dashed;
+border-width: 3px;
+border-left-width : 2px;
+border-left-style : dotted;
+border-color: red;
+border-top-left-radius: 5px;
+background-color: purple;
+padding: 30px;
+margin-left: auto;
+}

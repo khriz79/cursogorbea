@@ -1,0 +1,28 @@
+a[href="https://www.google.es/"] {
+color: red;
+}
+
+a[href="https://www.marca.com/"] {
+color: blue;
+}
+
+a[href="https://www.pinterest.es/"] {
+color: yellow;
+}
+
+a[href="https://es-es.facebook.com/"] {
+color: purple;
+}
+
+a[href="https://www.chollometro.com/"] {
+color: green;
+}
+
+a:hover{
+  color: green;
+  font-size:50px;
+}
+
+a:visited{
+  background-color: gray;
+}
